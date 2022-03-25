@@ -1,4 +1,8 @@
-theme: jekyll-theme-slate
+theme: jekyll-theme-cayman
 
 title: 龙芯技术教育网站
 description: http://loongsonedu.cn
+
+github:
+  zip_url: 
+  another_url: 
