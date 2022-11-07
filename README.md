@@ -1,10 +1,10 @@
 ## 龙芯开源技术开发者社区
 
 ### 社区新主页
-https://loongsonedu.cn/homepage/
+<https://loongsonedu.cn/homepage/>
 
 ### 培训课程
-https://loongsonedu.cn/course/
+<https://loongsonedu.cn/course/>
 
 ## 龙芯开源技术简介
 
