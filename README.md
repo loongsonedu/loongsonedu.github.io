@@ -1,4 +1,12 @@
-## 龙芯技术教育培训
+## 龙芯开源技术开发者社区
+
+### 社区新主页
+https://loongsonedu.cn/homepage/
+
+### 培训课程
+https://loongsonedu.cn/course/
+
+## 龙芯开源技术简介
 
 ### Loongson龙芯处理器
 #### 龙芯一号：面向嵌入式专门应用
