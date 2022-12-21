@@ -1,9 +1,9 @@
-## 龙芯开源技术开发者社区
+## 龙芯直播课堂
 
-### 社区新主页
+### 社区主页
 <https://loongsonedu.cn/homepage/>
 
-### 培训课程
+### 龙芯课堂
 <https://loongsonedu.cn/course/>
 
 ## 龙芯开源技术简介
