@@ -1,10 +1,10 @@
 ## 龙芯直播课堂
 
-### 社区主页
-<https://loongsonedu.cn/homepage/>
-
-### 龙芯课堂
+### 龙芯直播课堂
 <https://loongsonedu.cn/course/>
+
+### 社区主页（筹建中）
+<https://loongsonedu.cn/homepage/>
 
 ## 龙芯开源技术简介
 
